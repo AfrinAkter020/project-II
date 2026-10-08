@@ -1,0 +1,757 @@
+[
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Admin",
+    "permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$mChIrJvYDh7P6je352menM$Ei7wHrHenI7komgCYon0055pwrkq9yZiCOjT/l+Lyic=",
+    "last_login": "2026-01-24T07:29:00.586Z",
+    "is_superuser": false,
+    "username": "antora",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-12-01T14:57:57.783Z",
+    "email": "antora@gmail.com",
+    "first_name": "Antora",
+    "last_name": "Akter",
+    "university": "Shanto-Mariam University of Creative Technology",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2025-12-01T14:57:57.783Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$1GNJavdcQLIi4RO05qxPXU$O2iqI147V0wNAFpJcR2ImLJfWimCk6s2k8ulaIFLUvA=",
+    "last_login": "2025-12-01T15:44:02.381Z",
+    "is_superuser": false,
+    "username": "nusrat",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-12-01T14:57:58.267Z",
+    "email": "nusrat@gmail.com",
+    "first_name": "Nusrat Jahan",
+    "last_name": "Konka",
+    "university": "Shanto-Mariam University of Creative Technology",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2025-12-01T14:57:58.267Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$4rCuxNh7DuIH7HaiDMdGmx$SY21HlApIkJMX4zph5hTeZdadTAT3zWb9S+9/OnxDmA=",
+    "last_login": "2026-01-04T09:45:38.548Z",
+    "is_superuser": false,
+    "username": "mim",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-12-30T16:17:11.162Z",
+    "email": "mim@gmail.com",
+    "first_name": "Mim",
+    "last_name": "akter",
+    "university": "Shanto mariam university",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2025-12-30T16:17:11.163Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$4XzmPkvY2voliqKEhASyMC$OKENK3AjjNIDHWXdyp6FWSQ2gn4TryuqggsxNbvM65s=",
+    "last_login": "2026-01-10T07:54:17.387Z",
+    "is_superuser": false,
+    "username": "antora11",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-04T09:50:47.485Z",
+    "email": "antora11@gmail.com",
+    "first_name": "antu",
+    "last_name": "antu",
+    "university": "Shanto mariam university",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-01-04T09:50:47.486Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$LkaWvxtbwnwuzYZDD1CroM$FBr6miwn2wBujTp43Zs2FVY0WNrkhME/fd6U6OMEeYs=",
+    "last_login": "2026-01-04T09:56:10.009Z",
+    "is_superuser": false,
+    "username": "kona1",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-04T09:56:08.620Z",
+    "email": "kona1@gmail.com",
+    "first_name": "konka",
+    "last_name": "konka",
+    "university": "Shanto mariam university",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-01-04T09:56:08.620Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$JiJTJXXedN9juEFANGmCmK$WeFQtsmTRANXmjkDSpTsdOv/dnzMuWlHwAD2vJ8s6Bs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "afrin1",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-10T08:04:25.311Z",
+    "email": "afrin1@gmail.com",
+    "first_name": "afrin",
+    "last_name": "akter",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": true,
+    "created_at": "2026-01-10T08:04:26.330Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$3priBbrOwHG3LSRQEaeElG$i2ttuy8AdlrQNnaN00mSR1i8Wfrvq3iaGI3egzm8jj4=",
+    "last_login": "2026-01-10T14:55:47.844Z",
+    "is_superuser": false,
+    "username": "user",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-10T14:51:54.051Z",
+    "email": "user@email.com",
+    "first_name": "user",
+    "last_name": "name",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": true,
+    "created_at": "2026-01-10T14:51:54.051Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$G4zRowdUmaw2h1MpbtcCeh$OkBfnfKhiTsLTz7ph1tCPxQNGRnhsAJsENxBja5NyLE=",
+    "last_login": "2026-01-10T15:24:08.813Z",
+    "is_superuser": false,
+    "username": "maha",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-10T15:22:45.838Z",
+    "email": "maha@gmail.com",
+    "first_name": "maha",
+    "last_name": "akter",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": true,
+    "created_at": "2026-01-10T15:22:47.176Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Mgwipt4JnxUC3JV7ABkSb4$NUUvHae9beCdMcAlgckJ3kTorw1Ao2QzxdaRuDGsw6Y=",
+    "last_login": "2026-01-10T15:44:06.657Z",
+    "is_superuser": false,
+    "username": "ira",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-10T15:44:05.459Z",
+    "email": "ira@gmail.com",
+    "first_name": "ira",
+    "last_name": "akter",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-01-10T15:44:05.460Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$jjKbLvdbH7KtalPLXkp0vc$k2XpyH4Pp5KsCVBoQW2XAtnDkaT9pzb1hRtJ/ej0fvk=",
+    "last_login": "2026-01-11T09:59:04.486Z",
+    "is_superuser": false,
+    "username": "rose11",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-11T09:59:02.171Z",
+    "email": "rose11@gmail.com",
+    "first_name": "rosee",
+    "last_name": "rosee",
+    "university": "Shanto mariam university",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-01-11T09:59:02.171Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$ijkx7Qwc4byx1DnsmwatSD$tjcZuT6XQAkaxupP4bFMNqqaUavMB4sUabJDz9+iYmM=",
+    "last_login": "2026-01-11T10:09:46.611Z",
+    "is_superuser": false,
+    "username": "era123",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-01-11T10:09:44.350Z",
+    "email": "era123@gmail.com",
+    "first_name": "era",
+    "last_name": "era",
+    "university": "Shanto mariam university",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-01-11T10:09:44.351Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$KtBOqDerR54qZCZ7NiImp4$49wi0kggnweyId62GJ3U2muVbPcuDFnuO2WZX758lDU=",
+    "last_login": "2026-09-26T07:07:17.693Z",
+    "is_superuser": true,
+    "username": "Afrin",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-01-24T07:24:05.197Z",
+    "email": "afrin@gmail.com",
+    "first_name": "Afrin",
+    "last_name": "Akter",
+    "university": "",
+    "bio": "",
+    "is_admin": true,
+    "created_at": "2026-01-24T07:24:07.321Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$XuNekb72LNZL0Ji5tTomMS$saOSts+F9a2zbViod1SyFjyPZ9R/6NpdNuxbMPttMMk=",
+    "last_login": "2026-05-18T04:36:05.351Z",
+    "is_superuser": false,
+    "username": "afrinakter",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-18T04:36:03.015Z",
+    "email": "afrinakter@gmail.com",
+    "first_name": "afrin",
+    "last_name": "afrin",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-05-18T04:36:03.015Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$91iTDUxRrramMYwY2CvZYT$TiyzWt7eLAHLqL2j4/3MXzo83uFaAKVen81RTxaKGJs=",
+    "last_login": "2026-05-18T04:39:59.893Z",
+    "is_superuser": false,
+    "username": "antora12",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-18T04:39:57.670Z",
+    "email": "antora12@gmail.com",
+    "first_name": "antora",
+    "last_name": "antora",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-05-18T04:39:57.670Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$64onOmuoTGau6P9giK6KxE$2q4jLI0DezrVP3pxGVDwoeCtQ4bOXdXkOyz5oD9M4m0=",
+    "last_login": "2026-05-18T04:54:54.536Z",
+    "is_superuser": false,
+    "username": "antora10",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-18T04:54:52.244Z",
+    "email": "antora10@gmail.com",
+    "first_name": "antora",
+    "last_name": "antora",
+    "university": "smuct",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-05-18T04:54:52.245Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$2Am4xC8GLmS3zdS8BVRXwF$o8ce0mduV4W2l/8Ui0A1oK1LZ5OX7NdOcmnGgTqivtI=",
+    "last_login": "2026-09-26T07:06:40.883Z",
+    "is_superuser": false,
+    "username": "mira",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-09-26T07:05:51.664Z",
+    "email": "mira@gmail.com",
+    "first_name": "mira",
+    "last_name": "mira",
+    "university": "NSU",
+    "bio": "",
+    "is_admin": false,
+    "created_at": "2026-09-26T07:05:51.664Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "events.category",
+  "pk": 1,
+  "fields": {
+    "name": "Academic",
+    "description": "Academic events like workshops, seminars",
+    "color": "#3b82f6"
+  }
+},
+{
+  "model": "events.category",
+  "pk": 2,
+  "fields": {
+    "name": "Cultural",
+    "description": "Cultural events like festivals, performances",
+    "color": "#ef4444"
+  }
+},
+{
+  "model": "events.category",
+  "pk": 3,
+  "fields": {
+    "name": "Sports",
+    "description": "Sports tournaments and activities",
+    "color": "#10b981"
+  }
+},
+{
+  "model": "events.category",
+  "pk": 4,
+  "fields": {
+    "name": "Technical",
+    "description": "Technical workshops and hackathons",
+    "color": "#8b5cf6"
+  }
+},
+{
+  "model": "events.category",
+  "pk": 5,
+  "fields": {
+    "name": "Social",
+    "description": "Social gatherings and networking",
+    "color": "#f59e0b"
+  }
+},
+{
+  "model": "events.category",
+  "pk": 6,
+  "fields": {
+    "name": "others",
+    "description": "",
+    "color": "#6366f1"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 2,
+  "fields": {
+    "title": "SMUCT Cultural Night 2025",
+    "description": "Annual cultural celebration at Shanto-Mariam University featuring dance, music, and traditional Bengali performances. Join us for a night of creativity and culture!",
+    "category": 2,
+    "organizer": [
+      "antora@gmail.com"
+    ],
+    "date": "2025-12-15",
+    "time": "18:30:00",
+    "location": "SMUCT Main Auditorium",
+    "capacity": 300,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2025-12-01T14:57:58.770Z",
+    "updated_at": "2025-12-01T14:57:58.770Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 3,
+  "fields": {
+    "title": "Inter-Department Cricket Tournament",
+    "description": "SMUCT inter-department cricket tournament. Teams from CSE, BBA, and other departments will compete. Register your department team now!",
+    "category": 3,
+    "organizer": [
+      "nusrat@gmail.com"
+    ],
+    "date": "2025-12-22",
+    "time": "09:00:00",
+    "location": "SMUCT Sports Ground",
+    "capacity": 150,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2025-12-01T14:57:58.779Z",
+    "updated_at": "2025-12-01T14:57:58.779Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 4,
+  "fields": {
+    "title": "SMUCT Career Fair 2025",
+    "description": "Meet recruiters from top tech companies and startups. Exclusive for SMUCT students. Bring your resume and dress professionally.",
+    "category": 1,
+    "organizer": [
+      "antora@gmail.com"
+    ],
+    "date": "2025-12-11",
+    "time": "10:00:00",
+    "location": "SMUCT Exhibition Hall",
+    "capacity": 400,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2025-12-01T14:57:58.787Z",
+    "updated_at": "2025-12-01T14:57:58.787Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 6,
+  "fields": {
+    "title": "SMUCT Alumni Meetup",
+    "description": "Connect with SMUCT alumni working in leading tech companies. Share experiences, get career advice, and build your professional network.",
+    "category": 5,
+    "organizer": [
+      "nusrat@gmail.com"
+    ],
+    "date": "2025-12-06",
+    "time": "17:00:00",
+    "location": "SMUCT Student Center",
+    "capacity": 120,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2025-12-01T14:57:58.802Z",
+    "updated_at": "2025-12-01T14:57:58.802Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 7,
+  "fields": {
+    "title": "Photography Workshop: Campus Life",
+    "description": "Learn photography techniques while capturing the beautiful SMUCT campus. Bring your camera or smartphone. Perfect for beginners!",
+    "category": 2,
+    "organizer": [
+      "antora@gmail.com"
+    ],
+    "date": "2025-12-09",
+    "time": "16:00:00",
+    "location": "SMUCT Campus Grounds",
+    "capacity": 25,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2025-12-01T14:57:58.808Z",
+    "updated_at": "2025-12-01T14:57:58.808Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 12,
+  "fields": {
+    "title": "Java",
+    "description": "student group",
+    "category": 1,
+    "organizer": [
+      "mim@gmail.com"
+    ],
+    "date": "2026-01-06",
+    "time": "17:50:00",
+    "location": "Under Ground Basement - Computer Lab",
+    "capacity": 400,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2026-01-04T09:47:37.797Z",
+    "updated_at": "2026-01-04T09:47:37.797Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 13,
+  "fields": {
+    "title": "dance",
+    "description": "dancing",
+    "category": 2,
+    "organizer": [
+      "antora11@gmail.com"
+    ],
+    "date": "2026-01-10",
+    "time": "18:14:00",
+    "location": "field",
+    "capacity": 30,
+    "image": "",
+    "is_active": true,
+    "requires_registration": true,
+    "created_at": "2026-01-04T10:14:20.011Z",
+    "updated_at": "2026-01-04T10:14:20.011Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 15,
+  "fields": {
+    "title": "New Event",
+    "description": "This is for testing new event post.",
+    "category": 1,
+    "organizer": [
+      "afrin@gmail.com"
+    ],
+    "date": "2026-01-30",
+    "time": "16:31:00",
+    "location": "Room 1501",
+    "capacity": 200,
+    "image": "event_images/images_TeiFgZ7.png",
+    "is_active": true,
+    "requires_registration": false,
+    "created_at": "2026-01-24T07:31:39.124Z",
+    "updated_at": "2026-01-24T08:00:24.108Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 16,
+  "fields": {
+    "title": "program",
+    "description": "program",
+    "category": 1,
+    "organizer": [
+      "afrin@gmail.com"
+    ],
+    "date": "2026-05-19",
+    "time": "00:50:00",
+    "location": "auditoriam",
+    "capacity": 50,
+    "image": "event_images/WhatsApp_Image_2026-04-19_at_12.11.06_AM.jpeg",
+    "is_active": true,
+    "requires_registration": false,
+    "created_at": "2026-05-18T04:51:51.797Z",
+    "updated_at": "2026-05-18T04:52:33.255Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "nusrat@gmail.com"
+    ],
+    "event": 2,
+    "status": "attending",
+    "created_at": "2025-12-01T14:57:58.840Z",
+    "updated_at": "2025-12-01T14:57:58.840Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "antora@gmail.com"
+    ],
+    "event": 3,
+    "status": "attending",
+    "created_at": "2025-12-01T14:57:58.853Z",
+    "updated_at": "2025-12-01T14:57:58.853Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 15,
+  "fields": {
+    "user": [
+      "nusrat@gmail.com"
+    ],
+    "event": 3,
+    "status": "not_attending",
+    "created_at": "2025-12-01T15:52:10.173Z",
+    "updated_at": "2025-12-01T15:54:21.709Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 18,
+  "fields": {
+    "user": [
+      "nusrat@gmail.com"
+    ],
+    "event": 6,
+    "status": "attending",
+    "created_at": "2025-12-01T15:53:55.077Z",
+    "updated_at": "2025-12-01T15:53:55.806Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 23,
+  "fields": {
+    "user": [
+      "mim@gmail.com"
+    ],
+    "event": 12,
+    "status": "attending",
+    "created_at": "2026-01-04T09:47:53.926Z",
+    "updated_at": "2026-01-04T09:47:53.926Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 24,
+  "fields": {
+    "user": [
+      "antora11@gmail.com"
+    ],
+    "event": 13,
+    "status": "attending",
+    "created_at": "2026-01-04T10:15:27.666Z",
+    "updated_at": "2026-01-04T10:16:00.914Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 25,
+  "fields": {
+    "user": [
+      "antora11@gmail.com"
+    ],
+    "event": 12,
+    "status": "attending",
+    "created_at": "2026-01-10T07:55:12.533Z",
+    "updated_at": "2026-01-10T07:55:12.534Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 28,
+  "fields": {
+    "user": [
+      "ira@gmail.com"
+    ],
+    "event": 13,
+    "status": "attending",
+    "created_at": "2026-01-10T16:08:56.101Z",
+    "updated_at": "2026-01-10T16:08:56.101Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 29,
+  "fields": {
+    "user": [
+      "ira@gmail.com"
+    ],
+    "event": 12,
+    "status": "attending",
+    "created_at": "2026-01-10T16:08:57.963Z",
+    "updated_at": "2026-01-10T16:08:57.963Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 32,
+  "fields": {
+    "user": [
+      "ira@gmail.com"
+    ],
+    "event": 3,
+    "status": "attending",
+    "created_at": "2026-01-10T16:09:02.682Z",
+    "updated_at": "2026-01-10T16:09:02.682Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 33,
+  "fields": {
+    "user": [
+      "ira@gmail.com"
+    ],
+    "event": 2,
+    "status": "attending",
+    "created_at": "2026-01-10T16:09:04.312Z",
+    "updated_at": "2026-01-10T16:09:04.312Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 35,
+  "fields": {
+    "user": [
+      "antora12@gmail.com"
+    ],
+    "event": 13,
+    "status": "attending",
+    "created_at": "2026-05-18T04:41:53.587Z",
+    "updated_at": "2026-05-18T04:41:53.587Z"
+  }
+},
+{
+  "model": "events.attendance",
+  "pk": 36,
+  "fields": {
+    "user": [
+      "afrin@gmail.com"
+    ],
+    "event": 16,
+    "status": "not_attending",
+    "created_at": "2026-05-18T04:52:39.396Z",
+    "updated_at": "2026-05-18T04:52:41.257Z"
+  }
+}
+]
